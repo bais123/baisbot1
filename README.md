@@ -5,13 +5,13 @@
 
 <p align="center">
 
-- 👼 My name is Zero YT7
+- 👼 My name is Bais
 
-- 🗣️ I am 18 years old 
+- 🗣️ I am 16 years old 
 
 - 🔭 I am Not programmer
  
-- 😎 I am like Wibu
+- 😎 I am like You
 </p>
 
 ------
